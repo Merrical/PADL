@@ -38,3 +38,15 @@ python main.py --dataset RIGA --rater_num 6 --phase train --net_arch PADL --loss
 ```bash
 python main.py --dataset RIGA --rater_num 6 --phase test --net_arch PADL --loss_func bce --device_id 0 --loop 0
 ```
+### Bibtex
+```
+@article{Liao2021PADL,
+  title   = {Modeling Annotator Preference and Stochastic Annotation Error for Medical Image Segmentation},
+  author  = {Liao, Zehui and Hu, Shishuai and Xie, Yutong and Xia, Yong},
+  journal = {arXiv preprint arXiv:2111.13410},
+  year    = {2021}
+}
+```
+
+### Contact Us
+If you have any questions, please contact us ( merrical@mail.nwpu.edu.cn ).
