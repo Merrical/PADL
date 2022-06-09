@@ -2,7 +2,7 @@
 #### [Project Page](https://github.com/Merrical/PADL)
 
 This repo contains the official implementation of our paper: Modeling Annotator Preference and Stochastic Annotation Error for Medical Image Segmentation, which highlights the issue of annotator-related biases existed in medical image segmentation tasks.
-<p align="center"><img src="https://raw.githubusercontent.com/Merrical/PADL/blob/main/PADL_overview.png" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Merrical/PADL/master/PADL_overview.png" width="90%"></p>
 
 #### [Paper](https://arxiv.org/pdf/2111.13410.pdf)
 
