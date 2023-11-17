@@ -39,11 +39,11 @@ python main.py --dataset RIGA --rater_num 6 --phase test --net_arch PADL --loss_
 ```
 ### Bibtex
 ```
-@article{Liao2021PADL,
+@article{Liao2023PADL,
   title   = {Modeling Annotator Preference and Stochastic Annotation Error for Medical Image Segmentation},
   author  = {Liao, Zehui and Hu, Shishuai and Xie, Yutong and Xia, Yong},
-  journal = {arXiv preprint arXiv:2111.13410},
-  year    = {2021}
+  journal = {Medical Image Analysis},
+  year    = {2023}
 }
 ```
 
